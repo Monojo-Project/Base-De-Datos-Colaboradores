@@ -3,7 +3,7 @@ Una herramienta para tener una base de datos de las personas que trabajan contig
 
 Este es el código fuente.
 
-> En la línea 366 se define que archivo utiliza para la base de datos. (en el código fuente es ~/CONTRIBUIDORES.md)
+> En la línea 366 se define que archivo utiliza para la base de datos. (en el código fuente es ~/CONTRIBUIDORES.md).
 > En la línea 206 se define el título de la ventana. (en el código fuente es "Lynds Corp. - Base de Datos de Contribuidores")
 
 El CONTRIBUIDORES.md tiene que tener una estructura algo así (modificado con humor :D):
