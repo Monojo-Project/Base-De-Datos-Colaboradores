@@ -1,10 +1,12 @@
 # Base De Datos De Contribuidores
 Una herramienta para tener una base de datos de las personas que trabajan contigo o conoces. Es como una agenda pero tienes que modificarlo a mano.
 
-Este es el código fuente.
+Este es el código fuente. Escribe "make" en la terminal abierta en el directorio del repositorio descargado y ya tienes el binario compilado. Lo único que deberias cambiar es:
 
 > En la línea 366 se define que archivo utiliza para la base de datos. (en el código fuente es ~/CONTRIBUIDORES.md).
 > En la línea 206 se define el título de la ventana. (en el código fuente es "Lynds Corp. - Base de Datos de Contribuidores")
+
+Por cierto, cuando cambias el tema oscuro al tema claro, se crea un archivo de configuración en el mismo directorio (carpeta) del binario ejecutable.
 
 El CONTRIBUIDORES.md tiene que tener una estructura algo así (modificado con humor :D):
 ``` Markdown
